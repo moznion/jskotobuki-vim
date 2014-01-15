@@ -12,9 +12,9 @@ function => 寿
 
 ## See Also
 
-というか，まるっきりこれです．
+というか，まるっきりこれです．ありがとうございます．
 
-![http://labs.timedia.co.jp/2011/04/javascript-function-lambda-vim.html](http://labs.timedia.co.jp/2011/04/javascript-function-lambda-vim.html)
+[http://labs.timedia.co.jp/2011/04/javascript-function-lambda-vim.html](http://labs.timedia.co.jp/2011/04/javascript-function-lambda-vim.html)
 
 ## LICENSE
 
